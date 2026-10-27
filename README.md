@@ -1,4 +1,4 @@
-# -ProyectoUnidad1_SportTime_Grupo1.
+# ProyectoUnidad1_SportTime_Grupo1.
 ## Integrantes 
 Edwin Lenin Andrango Sosapanta 
 
@@ -32,3 +32,13 @@ Sistema de Reservas de Canchas Deportivas
 ├── frontend/      # Interfaz de usuario (web / móvil)
 └── docs/          # Documentación del proyecto y diagramas de arquitectura (.drawio)
 ```
+## Instrucciones de Ejecucion 
+
+## Enlaces 
+Jira 
+
+https://proyectounidad1-sportime-grupo1.atlassian.net/?continue=https%3A%2F%2Fproyectounidad1-sportime-grupo1.atlassian.net%2Fwelcome%2Fsoftware&atlOrigin=eyJpIjoiNjZiNzNiZTQ3MzZmNDZkZTlmOWE2OTk5Njg3MzQwNGIiLCJwIjoiaiJ9 
+Confluence
+
+Figma
+
