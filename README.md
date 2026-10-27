@@ -12,7 +12,7 @@ David Francisco Sigsi Brito
 Sistema de Reservas de Canchas Deportivas
 ##  Alcance del Proyecto
 
-### 1. Actividades Base (Actividades 1 a 3)
+### 1. Actividades Base 
 * Gestión de disponibilidad de canchas por horas.
 * Consulta de precios.
 * Reserva en línea.
@@ -22,5 +22,13 @@ Sistema de Reservas de Canchas Deportivas
 * Consulta de reservas activas.
 * Cancelación de turnos según condiciones definidas.
 
-### 2. Solicitud de Cambio (Actividad 4)
+### 2. Solicitud de Cambio 
 * **Pago Compartido:** Permite que la persona que crea la reserva divida el valor total entre varios participantes, visualizando el estado de cada aporte y completando la reserva una vez se alcance el monto requerido
+
+## 🛠️ Estructura del Repositorio
+```text
+/
+├── backend/       # Código fuente del servidor y lógica de negocio
+├── frontend/      # Interfaz de usuario (web / móvil)
+└── docs/          # Documentación del proyecto y diagramas de arquitectura (.drawio)
+```
