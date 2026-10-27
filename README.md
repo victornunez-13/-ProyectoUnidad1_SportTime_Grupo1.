@@ -37,8 +37,12 @@ Sistema de Reservas de Canchas Deportivas
 ## Enlaces 
 Jira 
 
-https://proyectounidad1-sportime-grupo1.atlassian.net/?continue=https%3A%2F%2Fproyectounidad1-sportime-grupo1.atlassian.net%2Fwelcome%2Fsoftware&atlOrigin=eyJpIjoiNjZiNzNiZTQ3MzZmNDZkZTlmOWE2OTk5Njg3MzQwNGIiLCJwIjoiaiJ9 
+https://proyectounidad1-sportime-grupo1.atlassian.net/?continue=https%3A%2F%2Fproyectounidad1-sportime-grupo1.atlassian.net%2Fwelcome%2Fsoftware&atlOrigin=eyJpIjoiNjZiNzNiZTQ3MzZmNDZkZTlmOWE2OTk5Njg3MzQwNGIiLCJwIjoiaiJ9
+
 Confluence
+
+https://proyectounidad1-sportime-grupo1.atlassian.net/wiki/spaces/SCRUM/pages/491521/Alcance+del+Sistema?atlOrigin=eyJpIjoiMDc2Mjg4NjFkN2FmNGE0NGFiNGM5YWQxOTI4OTI3OTEiLCJwIjoiaiJ9
 
 Figma
 
+https://www.figma.com/design/0oHvMMdst7Q11nURN7A8pA/Sin-t%C3%ADtulo?node-id=0-1&t=PxNQd99oPD4JSHPJ-1 
