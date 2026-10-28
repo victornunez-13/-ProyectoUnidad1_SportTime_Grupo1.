@@ -31,7 +31,7 @@ Sistema de Reservas de Canchas Deportivas
 ├── docs/          # Documentación del proyecto y diagramas de arquitectura (.drawio)
 └── README.md      # Documento informativo 
 ``` 
-## Instrucciones de Ejecucion 
+## Instrucciones de Ejecución 
 
 1. **Acceso al Prototipo:** Abrir el enlace de Figma alojado en la sección de Enlaces.
 
