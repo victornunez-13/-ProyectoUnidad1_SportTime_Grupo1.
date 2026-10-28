@@ -32,6 +32,9 @@ Sistema de Reservas de Canchas Deportivas
 └── README.md      # Documento informativo 
 ``` 
 ## Instrucciones de Ejecucion 
+**Acceso al Prototipo:** Abrir el enlace de Figma alojado en la sección de Enlaces.
+2. **Visualización:** Seleccionar el botón de reproducción ("Present" / ▶) en la parte superior derecha de Figma para navegar de forma interactiva por la maqueta funcional.
+3. **Diagramas UML:** Para revisar la arquitectura y el diagrama de componentes, navegar a la carpeta `/docs/architecture` en este repositorio y abrir los archivos `.drawio.png`.
 
 ## Enlaces 
 Jira 
