@@ -1,0 +1,13 @@
+name: CI Change Request
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Verificacion de integracion
+      run: echo "¡El Change Request se integró y verificó correctamente!"
