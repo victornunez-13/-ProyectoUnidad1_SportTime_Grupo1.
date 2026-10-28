@@ -51,3 +51,5 @@ https://proyectounidad1-sportime-grupo1.atlassian.net/wiki/spaces/SCRUM/pages/49
 Figma
 
 https://www.figma.com/design/0oHvMMdst7Q11nURN7A8pA/Sin-t%C3%ADtulo?node-id=0-1&t=PxNQd99oPD4JSHPJ-1 
+
+> **Corrección de Defecto (Bug):** Se corrigió la validación en el formulario de cambio de contraseña para evitar bloqueos de interfaz.
