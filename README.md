@@ -28,10 +28,9 @@ Sistema de Reservas de Canchas Deportivas
 ## 🛠️ Estructura del Repositorio
 ```text
 /
-├── backend/       # Código fuente del servidor y lógica de negocio
-├── frontend/      # Interfaz de usuario (web / móvil)
-└── docs/          # Documentación del proyecto y diagramas de arquitectura (.drawio)
-```
+├── docs/          # Documentación del proyecto y diagramas de arquitectura (.drawio)
+└── README.md      # Documento informativo 
+``` 
 ## Instrucciones de Ejecucion 
 
 ## Enlaces 
