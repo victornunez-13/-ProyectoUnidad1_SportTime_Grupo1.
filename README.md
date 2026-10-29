@@ -54,7 +54,7 @@ https://www.figma.com/design/0oHvMMdst7Q11nURN7A8pA/Sin-t%C3%ADtulo?node-id=0-1&
 
 > **Corrección de Defecto (Bug):** Se corrigió la validación en el formulario de cambio de contraseña para evitar bloqueos de interfaz.
 >
-Diagramas De Componentes Editables
+**Diagramas De Componentes Editables**
 
 V1.0
 
