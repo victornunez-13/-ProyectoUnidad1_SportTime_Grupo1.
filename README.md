@@ -54,18 +54,17 @@ https://www.figma.com/design/0oHvMMdst7Q11nURN7A8pA/Sin-t%C3%ADtulo?node-id=0-1&
 
 > **Corrección de Defecto (Bug):** Se corrigió la validación en el formulario de cambio de contraseña para evitar bloqueos de interfaz.
 >
-**Diagramas De Componentes Editables**
+##**Diagramas De Componentes Editables**
 
 V1.0
 
 https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=SportTime_diagrama_componentes.drawio%20V1.0&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1KVTQioYDBb__TnJUEiBmb2mUjnDRW3ux%26export%3Ddownload
 
-<img width="1700" height="1120" alt="image" src="https://github.com/user-attachments/assets/68aa2fee-973e-4f0a-996b-4f65c74018ee" />
-
+<img width="1623" height="873" alt="image" src="https://github.com/user-attachments/assets/b643b142-b65e-4cce-a329-91e8a208d13f" />
 
 V1.1(evolucion)
 
 https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=SportTime_diagrama_componentes_v2_PagoCompartido%20(1).drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1V3JrYObQRdlmQpEJeUo-rAUVJVmtdkcy%26export%3Ddownload
 
-<img width="1623" height="873" alt="image" src="https://github.com/user-attachments/assets/b643b142-b65e-4cce-a329-91e8a208d13f" />
+<img width="1700" height="1120" alt="image" src="https://github.com/user-attachments/assets/68aa2fee-973e-4f0a-996b-4f65c74018ee" />
 
